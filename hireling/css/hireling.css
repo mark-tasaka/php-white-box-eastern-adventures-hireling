@@ -1,0 +1,175 @@
+/*White Box: Eastern Adventures
+Hireling css*/
+
+body{
+	font-family: sans-serif;
+	font-size: 0.9em;
+	font-weight: bold;
+}
+
+
+#character_sheet{
+    width: 1000px;
+    height: auto;
+	display: block;
+}
+
+#left1{
+	position:absolute;
+	top: 0px;
+	left: 0px;
+	width: 500px;
+}
+
+#right1{
+	position:absolute;
+	top: 0px;
+	left: 500px;
+	width: 500px;
+}
+
+#left2{
+	position:absolute;
+	top: 259px;
+	left: 0px;
+	width: 500px;
+	
+}
+
+#right2{
+	position:absolute;
+	top: 259px;
+	left: 500px;
+	width: 500px;
+	
+}
+
+
+#left3{
+	position:absolute;
+	top: 518px;
+	left: 0px;
+	width: 500px;
+	
+}
+
+#right3{
+	position:absolute;
+	top: 518px;
+	left: 500px;
+	width: 500px;
+	
+}
+
+#left4{
+	position:absolute;
+	top: 777px;
+	left: 0px;
+	width: 500px;
+	
+}
+
+#right4{
+	position:absolute;
+	top: 777px;
+	left: 500px;
+	width: 500px;
+	
+}
+
+#left5{
+	position:absolute;
+	top: 1036px;
+	left: 0px;
+	width: 500px;
+	
+}
+
+#right5{
+	position:absolute;
+	top: 1036px;
+	left: 500px;
+	width: 500px;
+	
+}
+
+#ac0, #ac1, #ac2, #ac3, #ac4, #ac5, #ac6, #ac7, #ac8, #ac9{
+    position: absolute;
+    top: 91px;
+    left: 90px;
+    font-size: 1.4em;
+}
+
+#hp0, #hp1, #hp2, #hp3, #hp4, #hp5, #hp6, #hp7, #hp8, #hp9{
+    position: absolute;
+    top: 123px;
+    left: 100px;
+    font-size: 1.5em;
+}
+
+#hd0, #hd1, #hd2, #hd3, #hd4, #hd5, #hd6, #hd7, #hd8, #hd9{
+    position: absolute;
+    top: 156px;
+    left: 90px;
+    font-size: 1.5em;
+}
+
+#move0, #move1, #move2, #move3, #move4, #move5, #move6, #move7, #move8, #move9{
+    position: absolute;
+    top: 190px;
+    left: 90px;
+    font-size: 1.5em;
+}
+
+#save0, #save1, #save2, #save3, #save4, #save5, #save6, #save7, #save8, #save9{
+    position: absolute;
+    top: 223px;
+    left: 95px;
+    font-size: 1.5em;
+}
+
+
+#maxHp0, #maxHp1, #maxHp2, #maxHp3, #maxHp4, #maxHp5, #maxHp6, #maxHp7, #maxHp8, #maxHp9{
+    position: absolute;
+    top: 63px;
+    left: 467px;
+    font-size: 0.9em;
+}
+
+
+#sex0, #sex1, #sex2, #sex3, #sex4, #sex5, #sex6, #sex7, #sex8, #sex9{
+    position: absolute;
+    top: 56px;
+    left: 307px;
+    font-size: 1em;
+}
+
+
+#name0, #name1, #name2, #name3, #name4, #name5, #name6, #name7, #name8, #name9{
+    position: absolute;
+    top: 56px;
+    left: 40px;
+    font-size: 1em;
+}
+
+#weapons0, #weapons1, #weapons2, #weapons3, #weapons4, #weapons5, #weapons6, #weapons7, #weapons8, #weapons9{
+    position: absolute;
+    top: 109px;
+    left: 215px;
+    font-size: 0.8em;
+}
+
+#armour0, #armour1, #armour2, #armour3, #armour4, #armour5, #armour6, #armour7, #armour8, #armour9{
+    position: absolute;
+    top: 155px;
+    left: 215px;
+    font-size: 0.8em;
+}
+
+#personality0, #personality1, #personality2, #personality3, #personality4, #personality5, #personality6, #personality7, #personality8, #personality9{
+    position: absolute;
+    top: 200px;
+    left: 215px;
+    font-size: 0.8em;
+    width: 250px;
+}
