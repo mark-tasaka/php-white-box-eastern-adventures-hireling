@@ -35,7 +35,7 @@ function getMaleNames()
         'Yusuke',
         'Sho',
         'Shoji',
-        'shuto',
+        'Shuto',
         'Ryo',
         'Issei',
         'Masaki',
